@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/IIPEA_logo.png" alt="IIPEA logo" height="120" />
+  <img src="https://www.goafricaonline.com/uploads/media/default/0003/65/64ae7d88a8be9-6.JPG" alt="IIPEA logo" height="120" />
 </p>
 
 <p align="center">
